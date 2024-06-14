@@ -13,7 +13,7 @@
             "program": "src/ocrmypdf/demo/demo.py",
             "console": "integratedTerminal",
             "args": [
-"-l", "eng", "--rotate-pages", "--deskew", "--jobs", "4", "--output-type", "pdfa",  "rotated_skew.pdf", "rotated_skew_ocr.pdf"
+"-l", "eng", "--rotate-pages", "--deskew", "--jobs", "4", "--output-type", "pdfa",  "src/ocrmypdf/demo/rotated_skew.pdf", "src/ocrmypdf/demo/rotated_skew_ocr.pdf"
             ]
         }
     ]
